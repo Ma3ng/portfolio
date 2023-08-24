@@ -1,0 +1,622 @@
+,name,type,date
+0,New Year's Day,Regular Holiday,2013-01-01
+1,Maulid un-Nabi,Common local holiday,2013-01-24
+2,Lunar New Year's Day,Special Non-working Holiday,2013-02-10
+3,People Power Anniversary,Observance,2013-02-25
+4,March Equinox,Season,2013-03-20
+5,Maundy Thursday,Regular Holiday,2013-03-28
+6,Good Friday,Regular Holiday,2013-03-29
+7,Black Saturday,Observance,2013-03-30
+8,Easter Sunday,Observance,2013-03-31
+9,The Day of Valor,Regular Holiday,2013-04-09
+10,Labor Day,Regular Holiday,2013-05-01
+11,Lailatul Isra Wal Mi Raj,Common local holiday,2013-06-06
+12,Independence Day,Regular Holiday,2013-06-12
+13,June Solstice,Season,2013-06-21
+14,Eidul-Fitar,Regular Holiday,2013-08-08
+15,Ninoy Aquino Day,Special Non-working Holiday,2013-08-21
+16,National Heroes Day,Regular Holiday,2013-08-26
+17,September Equinox,Season,2013-09-23
+18,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2013-10-15
+19,Barangay Elections,Special Non-working Holiday,2013-10-28
+20,All Saints' Day,Special Non-working Holiday,2013-11-01
+21,All Souls' Day,Observance,2013-11-02
+22,Amun Jadid,"Muslim, Common local holiday",2013-11-05
+23,Bonifacio Day,Regular Holiday,2013-11-30
+24,December Solstice,Season,2013-12-22
+25,Christmas Eve,Observance,2013-12-24
+26,Christmas Day,Regular Holiday,2013-12-25
+27,Rizal Day,Regular Holiday,2013-12-30
+28,New Year's Eve,Special Non-working Holiday,2013-12-31
+29,New Year's Day,Regular Holiday,2014-01-01
+30,Maulid un-Nabi,Common local holiday,2014-01-14
+31,Lunar New Year's Day,Special Non-working Holiday,2014-01-31
+32,People Power Anniversary,Observance,2014-02-25
+33,March Equinox,Season,2014-03-21
+34,The Day of Valor,Regular Holiday,2014-04-09
+35,Maundy Thursday,Regular Holiday,2014-04-17
+36,Good Friday,Regular Holiday,2014-04-18
+37,Black Saturday,Special Non-working Holiday,2014-04-19
+38,Easter Sunday,Observance,2014-04-20
+39,Labor Day,Regular Holiday,2014-05-01
+40,Lailatul Isra Wal Mi Raj,Common local holiday,2014-05-27
+41,Independence Day,Regular Holiday,2014-06-12
+42,June Solstice,Season,2014-06-21
+43,Eidul-Fitar,Regular Holiday,2014-07-29
+44,Ninoy Aquino Day,Special Non-working Holiday,2014-08-21
+45,National Heroes Day,Regular Holiday,2014-08-25
+46,September Equinox,Season,2014-09-23
+47,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2014-10-06
+48,Amun Jadid,"Muslim, Common local holiday",2014-10-25
+49,All Saints' Day,Special Non-working Holiday,2014-11-01
+50,All Souls' Day,Observance,2014-11-02
+51,Bonifacio Day,Regular Holiday,2014-11-30
+52,December Solstice,Season,2014-12-22
+53,Christmas Eve,Special Non-working Holiday,2014-12-24
+54,Christmas Day,Regular Holiday,2014-12-25
+55,Special Day after Christmas,Special Non-working Holiday,2014-12-26
+56,Rizal Day,Regular Holiday,2014-12-30
+57,New Year's Eve,Special Non-working Holiday,2014-12-31
+58,New Year's Day,Regular Holiday,2015-01-01
+59,Day After New Year's Day,Regular Holiday,2015-01-02
+60,Special non-working day after New Year,Special Non-working Holiday,2015-01-02
+61,Maulid un-Nabi,Common local holiday,2015-01-03
+62,Pope's Visit (Public holiday in Manila),Observance,2015-01-15
+63,Pope's Visit (Public holiday in Manila),Observance,2015-01-16
+64,Pope's Visit (Public holiday in Manila),Observance,2015-01-17
+65,Pope's Visit (Public holiday in Manila),Observance,2015-01-18
+66,Pope's Visit (Public holiday in Manila),Observance,2015-01-19
+67,Lunar New Year's Day,Special Non-working Holiday,2015-02-19
+68,People Power Anniversary,Observance,2015-02-25
+69,March Equinox,Season,2015-03-21
+70,Maundy Thursday,Regular Holiday,2015-04-02
+71,Good Friday,Regular Holiday,2015-04-03
+72,Black Saturday,Special Non-working Holiday,2015-04-04
+73,Easter Sunday,Observance,2015-04-05
+74,The Day of Valor,Regular Holiday,2015-04-09
+75,Labor Day,Regular Holiday,2015-05-01
+76,Lailatul Isra Wal Mi Raj,Common local holiday,2015-05-16
+77,Independence Day,Regular Holiday,2015-06-12
+78,June Solstice,Season,2015-06-22
+79,Eidul-Fitar,Regular Holiday,2015-07-17
+80,Ninoy Aquino Day,Special Non-working Holiday,2015-08-21
+81,National Heroes Day,Regular Holiday,2015-08-31
+82,September Equinox,Season,2015-09-23
+83,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2015-09-25
+84,Amun Jadid,"Muslim, Common local holiday",2015-10-15
+85,All Saints' Day,Special Non-working Holiday,2015-11-01
+86,All Souls' Day,Observance,2015-11-02
+87,APEC Summit Extra Holiday,Observance,2015-11-17
+88,APEC Summit Extra Holiday,Special Non-working Holiday,2015-11-18
+89,APEC Summit Extra Holiday,Observance,2015-11-20
+90,APEC Summit Extra Holiday,Special Non-working Holiday,2015-11-20
+91,Bonifacio Day,Regular Holiday,2015-11-30
+92,December Solstice,Season,2015-12-22
+93,Christmas Eve,Special Non-working Holiday,2015-12-24
+94,Maulid un-Nabi,Common local holiday,2015-12-24
+95,Christmas Day,Regular Holiday,2015-12-25
+96,Rizal Day,Regular Holiday,2015-12-30
+97,New Year's Eve,Special Non-working Holiday,2015-12-31
+98,New Year's Day,Regular Holiday,2016-01-01
+99,Special non-working day after New Year,Special Non-working Holiday,2016-01-02
+100,Lunar New Year's Day,Special Non-working Holiday,2016-02-08
+101,People Power Anniversary,Special Non-working Holiday,2016-02-25
+102,March Equinox,Season,2016-03-20
+103,Maundy Thursday,Regular Holiday,2016-03-24
+104,Good Friday,Regular Holiday,2016-03-25
+105,Black Saturday,Special Non-working Holiday,2016-03-26
+106,Easter Sunday,Observance,2016-03-27
+107,The Day of Valor,Regular Holiday,2016-04-09
+108,Labor Day,Regular Holiday,2016-05-01
+109,Lailatul Isra Wal Mi Raj,Common local holiday,2016-05-05
+110,National Elections,Special Non-working Holiday,2016-05-09
+111,Independence Day,Regular Holiday,2016-06-12
+112,June Solstice,Season,2016-06-21
+113,Eidul-Fitar,Regular Holiday,2016-07-07
+114,Ninoy Aquino Day,Special Non-working Holiday,2016-08-21
+115,National Heroes Day,Regular Holiday,2016-08-29
+116,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2016-09-10
+117,Eid al-Adha Day 2,Common local holiday,2016-09-11
+118,Eid al-Adha Day 3,National holiday,2016-09-12
+119,September Equinox,Season,2016-09-22
+120,Amun Jadid,"Muslim, Common local holiday",2016-10-03
+121,Special non-working Day,National holiday,2016-10-31
+122,All Saints' Day,Special Non-working Holiday,2016-11-01
+123,All Souls' Day,Observance,2016-11-02
+124,Bonifacio Day,Regular Holiday,2016-11-30
+125,Maulid un-Nabi,Common local holiday,2016-12-12
+126,December Solstice,Season,2016-12-21
+127,Christmas Eve,Special Non-working Holiday,2016-12-24
+128,Christmas Day,Regular Holiday,2016-12-25
+129,Christmas Day observed,Regular Holiday,2016-12-26
+130,Rizal Day,Regular Holiday,2016-12-30
+131,New Year's Eve,Special Non-working Holiday,2016-12-31
+132,New Year's Day,Regular Holiday,2017-01-01
+133,New Year's Day observed,Regular Holiday,2017-01-02
+134,Lunar New Year's Day,Special Non-working Holiday,2017-01-28
+135,People Power Anniversary,Observance,2017-02-25
+136,March Equinox,Season,2017-03-20
+137,The Day of Valor,Regular Holiday,2017-04-09
+138,Maundy Thursday,Regular Holiday,2017-04-13
+139,Good Friday,Regular Holiday,2017-04-14
+140,Black Saturday,Special Non-working Holiday,2017-04-15
+141,Easter Sunday,Observance,2017-04-16
+142,Lailatul Isra Wal Mi Raj,Common local holiday,2017-04-24
+143,Labor Day,Regular Holiday,2017-05-01
+144,Independence Day,Regular Holiday,2017-06-12
+145,June Solstice,Season,2017-06-21
+146,Eidul-Fitar,Regular Holiday,2017-06-26
+147,Ninoy Aquino Day,Special Non-working Holiday,2017-08-21
+148,National Heroes Day,Regular Holiday,2017-08-28
+149,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2017-09-02
+150,Eid al-Adha Day 2,Common local holiday,2017-09-03
+151,Amun Jadid,"Muslim, Common local holiday",2017-09-22
+152,September Equinox,Season,2017-09-23
+153,Special non-working Day,National holiday,2017-10-31
+154,All Saints' Day,Special Non-working Holiday,2017-11-01
+155,All Souls' Day,Observance,2017-11-02
+156,Bonifacio Day,Regular Holiday,2017-11-30
+157,Maulid un-Nabi,Common local holiday,2017-12-01
+158,Feast of the Immaculate Conception,Special Non-working Holiday,2017-12-08
+159,December Solstice,Season,2017-12-22
+160,Christmas Eve,Observance,2017-12-24
+161,Christmas Day,Regular Holiday,2017-12-25
+162,Rizal Day,Regular Holiday,2017-12-30
+163,New Year's Eve,Special Non-working Holiday,2017-12-31
+164,New Year's Day,Regular Holiday,2018-01-01
+165,Lunar New Year's Day,Special Non-working Holiday,2018-02-16
+166,People Power Anniversary,Special Non-working Holiday,2018-02-25
+167,March Equinox,Season,2018-03-21
+168,Maundy Thursday,Regular Holiday,2018-03-29
+169,Good Friday,Regular Holiday,2018-03-30
+170,Black Saturday,Special Non-working Holiday,2018-03-31
+171,Black Saturday,Special Non-working Holiday,2018-03-31
+172,Easter Sunday,Observance,2018-04-01
+173,The Day of Valor,Regular Holiday,2018-04-09
+174,Lailatul Isra Wal Mi Raj,Common local holiday,2018-04-13
+175,Labor Day,Regular Holiday,2018-05-01
+176,Special Non-Working Day,Special Non-working Holiday,2018-05-14
+177,Independence Day,Regular Holiday,2018-06-12
+178,Eidul-Fitar,Regular Holiday,2018-06-15
+179,June Solstice,Season,2018-06-21
+180,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2018-08-21
+181,Ninoy Aquino Day,Special Non-working Holiday,2018-08-21
+182,Eid al-Adha Day 2,Common local holiday,2018-08-22
+183,National Heroes Day,Regular Holiday,2018-08-27
+184,Amun Jadid,"Muslim, Common local holiday",2018-09-12
+185,September Equinox,Season,2018-09-23
+186,All Saints' Day,Special Non-working Holiday,2018-11-01
+187,All Souls' Day,Special Non-working Holiday,2018-11-02
+188,Additional Special Non-Working Day,Special Non-working Holiday,2018-11-02
+189,Maulid un-Nabi,Common local holiday,2018-11-21
+190,Bonifacio Day,Regular Holiday,2018-11-30
+191,Feast of the Immaculate Conception,Special Non-working Holiday,2018-12-08
+192,December Solstice,Season,2018-12-22
+193,Christmas Eve,Special Non-working Holiday,2018-12-24
+194,Additional Special Non-Working Day,Special Non-working Holiday,2018-12-24
+195,Christmas Day,Regular Holiday,2018-12-25
+196,Rizal Day,Regular Holiday,2018-12-30
+197,New Year's Eve,Special Non-working Holiday,2018-12-31
+198,New Year's Day,Regular Holiday,2019-01-01
+199,First Philippine Republic Day,Special Working Day,2019-01-23
+200,Lunar New Year's Day,Special Non-working Holiday,2019-02-05
+201,People Power Anniversary,Special Non-working Holiday,2019-02-25
+202,March Equinox,Season,2019-03-21
+203,Lailatul Isra Wal Mi Raj,Common local holiday,2019-04-03
+204,The Day of Valor,Regular Holiday,2019-04-09
+205,Maundy Thursday,Regular Holiday,2019-04-18
+206,Good Friday,Regular Holiday,2019-04-19
+207,Black Saturday,Special Non-working Holiday,2019-04-20
+208,Black Saturday,Special Non-working Holiday,2019-04-20
+209,Easter Sunday,Observance,2019-04-21
+210,Labor Day,Regular Holiday,2019-05-01
+211,Special Non-Working Day,Special Non-working Holiday,2019-05-13
+212,Eidul-Fitar,Regular Holiday,2019-06-05
+213,Independence Day,Regular Holiday,2019-06-12
+214,June Solstice,Season,2019-06-21
+215,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2019-08-12
+216,Eid al-Adha Day 2,Common local holiday,2019-08-13
+217,Ninoy Aquino Day,Special Non-working Holiday,2019-08-21
+218,National Heroes Day,Regular Holiday,2019-08-26
+219,Amun Jadid,"Muslim, Common local holiday",2019-08-31
+220,Yamashita Surrender Day,Special Working Day,2019-09-03
+221,Feast of the Nativity of Mary,Special Working Day,2019-09-08
+222,September Equinox,Season,2019-09-23
+223,All Saints' Day,Special Non-working Holiday,2019-11-01
+224,All Souls' Day,Special Non-working Holiday,2019-11-02
+225,Additional Special Non-Working Day,Special Non-working Holiday,2019-11-02
+226,Maulid un-Nabi,Common local holiday,2019-11-09
+227,Bonifacio Day,Regular Holiday,2019-11-30
+228,Feast of the Immaculate Conception,Special Non-working Holiday,2019-12-08
+229,December Solstice,Season,2019-12-22
+230,Christmas Eve,Special Non-working Holiday,2019-12-24
+231,Additional Special Non-Working Day,Special Non-working Holiday,2019-12-24
+232,Christmas Day,Regular Holiday,2019-12-25
+233,Rizal Day,Regular Holiday,2019-12-30
+234,New Year's Eve,Special Non-working Holiday,2019-12-31
+235,New Year's Day,Regular Holiday,2020-01-01
+236,First Philippine Republic Day,Special Working Day,2020-01-23
+237,Lunar New Year's Day,Special Non-working Holiday,2020-01-25
+238,People Power Anniversary,Special Non-working Holiday,2020-02-25
+239,March Equinox,Season,2020-03-20
+240,Lailatul Isra Wal Mi Raj,Common local holiday,2020-03-22
+241,Maundy Thursday,Regular Holiday,2020-04-09
+242,The Day of Valor,Regular Holiday,2020-04-09
+243,Good Friday,Regular Holiday,2020-04-10
+244,Black Saturday,Special Non-working Holiday,2020-04-11
+245,Black Saturday,Special Non-working Holiday,2020-04-11
+246,Easter Sunday,Observance,2020-04-12
+247,Labor Day,Regular Holiday,2020-05-01
+248,Eidul-Fitar,Observance,2020-05-24
+249,Eidul-Fitar Holiday,Regular Holiday,2020-05-25
+250,Independence Day,Regular Holiday,2020-06-12
+251,June Solstice,Season,2020-06-21
+252,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2020-07-31
+253,Eid al-Adha Day 2,Common local holiday,2020-08-01
+254,Amun Jadid,"Muslim, Common local holiday",2020-08-20
+255,Ninoy Aquino Day,Special Non-working Holiday,2020-08-21
+256,National Heroes Day,Regular Holiday,2020-08-31
+257,Yamashita Surrender Day,Special Working Day,2020-09-03
+258,Feast of the Nativity of Mary,Special Working Day,2020-09-08
+259,September Equinox,Season,2020-09-22
+260,Maulid un-Nabi,Common local holiday,2020-10-29
+261,All Saints' Day,Special Non-working Holiday,2020-11-01
+262,All Souls' Day,Special Non-working Holiday,2020-11-02
+263,Additional Special Non-Working Day,Special Non-working Holiday,2020-11-02
+264,Bonifacio Day,Regular Holiday,2020-11-30
+265,Feast of the Immaculate Conception,Special Non-working Holiday,2020-12-08
+266,December Solstice,Season,2020-12-21
+267,Christmas Eve,Special Non-working Holiday,2020-12-24
+268,Additional Special Non-Working Day,Special Non-working Holiday,2020-12-24
+269,Christmas Day,Regular Holiday,2020-12-25
+270,Rizal Day,Regular Holiday,2020-12-30
+271,New Year's Eve,Special Non-working Holiday,2020-12-31
+272,New Year's Day,Regular Holiday,2021-01-01
+273,First Philippine Republic Day,Special Working Day,2021-01-23
+274,Lunar New Year's Day,Special Non-working Holiday,2021-02-12
+275,People Power Anniversary,Special Non-working Holiday,2021-02-25
+276,Lailatul Isra Wal Mi Raj,Common local holiday,2021-03-11
+277,March Equinox,Season,2021-03-20
+278,Maundy Thursday,Regular Holiday,2021-04-01
+279,Good Friday,Regular Holiday,2021-04-02
+280,Black Saturday,Special Non-working Holiday,2021-04-03
+281,Easter Sunday,Observance,2021-04-04
+282,The Day of Valor,Regular Holiday,2021-04-09
+283,Labor Day,Regular Holiday,2021-05-01
+284,Eidul-Fitar,Regular Holiday,2021-05-13
+285,Independence Day,Regular Holiday,2021-06-12
+286,June Solstice,Season,2021-06-21
+287,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2021-07-20
+288,Eid al-Adha Day 2,Common local holiday,2021-07-21
+289,Amun Jadid,"Muslim, Common local holiday",2021-08-10
+290,Ninoy Aquino Day,Special Non-working Holiday,2021-08-21
+291,National Heroes Day,Regular Holiday,2021-08-30
+292,Yamashita Surrender Day,Special Working Day,2021-09-03
+293,Feast of the Nativity of Mary,Special Working Day,2021-09-08
+294,September Equinox,Season,2021-09-23
+295,Maulid un-Nabi,Common local holiday,2021-10-18
+296,All Saints' Day,Special Non-working Holiday,2021-11-01
+297,All Souls' Day,Special Working Day,2021-11-02
+298,Bonifacio Day,Regular Holiday,2021-11-30
+299,Feast of the Immaculate Conception,Special Non-working Holiday,2021-12-08
+300,December Solstice,Season,2021-12-21
+301,Christmas Eve,Special Working Day,2021-12-24
+302,Christmas Day,Regular Holiday,2021-12-25
+303,Rizal Day,Regular Holiday,2021-12-30
+304,New Year's Eve,Special Working Day,2021-12-31
+305,New Year's Day,Regular Holiday,2022-01-01
+306,First Philippine Republic Day,Special Working Day,2022-01-23
+307,Lunar New Year's Day,Special Non-working Holiday,2022-02-01
+308,People Power Anniversary,Special Non-working Holiday,2022-02-25
+309,Lailatul Isra Wal Mi Raj,Common local holiday,2022-02-28
+310,March Equinox,Season,2022-03-20
+311,The Day of Valor,Regular Holiday,2022-04-09
+312,Maundy Thursday,Regular Holiday,2022-04-14
+313,Good Friday,Regular Holiday,2022-04-15
+314,Black Saturday,Special Non-working Holiday,2022-04-16
+315,Easter Sunday,Observance,2022-04-17
+316,Labor Day,Regular Holiday,2022-05-01
+317,Eidul-Fitar,Observance,2022-05-02
+318,Eidul-Fitar Holiday,Regular Holiday,2022-05-03
+319,National and Local Election Holiday,Special Non-working Holiday,2022-05-09
+320,Independence Day,Regular Holiday,2022-06-12
+321,June Solstice,Season,2022-06-21
+322,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2022-07-09
+323,Eid al-Adha Day 2,Common local holiday,2022-07-10
+324,Amun Jadid,"Muslim, Common local holiday",2022-07-30
+325,Ninoy Aquino Day,Special Non-working Holiday,2022-08-21
+326,National Heroes Day,Regular Holiday,2022-08-29
+327,Yamashita Surrender Day,Special Working Day,2022-09-03
+328,Feast of the Nativity of Mary,Special Working Day,2022-09-08
+329,September Equinox,Season,2022-09-23
+330,Maulid un-Nabi,Common local holiday,2022-10-08
+331,Special Family Ties and Domestic Tourism Day,Special Non-working Holiday,2022-10-31
+332,All Saints' Day,Special Non-working Holiday,2022-11-01
+333,All Souls' Day,Special Working Day,2022-11-02
+334,Bonifacio Day,Regular Holiday,2022-11-30
+335,Feast of the Immaculate Conception,Special Non-working Holiday,2022-12-08
+336,December Solstice,Season,2022-12-22
+337,Christmas Eve,Special Working Day,2022-12-24
+338,Christmas Day,Regular Holiday,2022-12-25
+339,Special Day after Christmas,Special Non-working Holiday,2022-12-26
+340,Rizal Day,Regular Holiday,2022-12-30
+341,New Year's Eve,Special Working Day,2022-12-31
+342,New Year's Day,Regular Holiday,2023-01-01
+343,Special non-working day after New Year,Special Non-working Holiday,2023-01-02
+344,Lunar New Year's Day,Observance,2023-01-22
+345,First Philippine Republic Day,Special Working Day,2023-01-23
+346,Lailatul Isra Wal Mi Raj,Common local holiday,2023-02-18
+347,Day off for People Power Anniversary,Special Non-working Holiday,2023-02-24
+348,People Power Anniversary,Special Non-working Holiday,2023-02-25
+349,March Equinox,Season,2023-03-21
+350,Ramadan Start,Observance,2023-03-23
+351,Maundy Thursday,Regular Holiday,2023-04-06
+352,Good Friday,Regular Holiday,2023-04-07
+353,Black Saturday,Special Non-working Holiday,2023-04-08
+354,Easter Sunday,Observance,2023-04-09
+355,The Day of Valor,Observance,2023-04-09
+356,The Day of Valor,Regular Holiday,2023-04-10
+357,Eidul-Fitar Holiday,Regular Holiday,2023-04-21
+358,Eidul-Fitar,Observance,2023-04-22
+359,Labor Day,Regular Holiday,2023-05-01
+360,Independence Day,Regular Holiday,2023-06-12
+361,June Solstice,Season,2023-06-21
+362,Eid al-Adha (Feast of the Sacrifice),Regular Holiday,2023-06-28
+363,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2023-06-29
+364,Amun Jadid,"Muslim, Common local holiday",2023-07-19
+365,Ninoy Aquino Day,Special Non-working Holiday,2023-08-21
+366,National Heroes Day,Regular Holiday,2023-08-28
+367,Yamashita Surrender Day,Special Working Day,2023-09-03
+368,Feast of the Nativity of Mary,Special Working Day,2023-09-08
+369,September Equinox,Season,2023-09-23
+370,Maulid un-Nabi (Tentative Date),Common local holiday,2023-09-27
+371,All Saints' Day,Special Non-working Holiday,2023-11-01
+372,All Souls' Day,Special Non-working Holiday,2023-11-02
+373,Bonifacio Day,Regular Holiday,2023-11-27
+374,Bonifacio Day,Observance,2023-11-30
+375,Feast of the Immaculate Conception,Special Non-working Holiday,2023-12-08
+376,December Solstice,Season,2023-12-22
+377,Christmas Eve,Observance,2023-12-24
+378,Christmas Day,Regular Holiday,2023-12-25
+379,Rizal Day,Regular Holiday,2023-12-30
+380,New Year's Eve,Special Non-working Holiday,2023-12-31
+381,New Year's Day,Regular Holiday,2024-01-01
+382,First Philippine Republic Day,Special Working Day,2024-01-23
+383,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2024-02-07
+384,Lunar New Year's Day,Special Non-working Holiday,2024-02-10
+385,People Power Anniversary,Special Non-working Holiday,2024-02-25
+386,Ramadan Start (Tentative Date),Observance,2024-03-11
+387,March Equinox,Season,2024-03-20
+388,Maundy Thursday,Regular Holiday,2024-03-28
+389,Good Friday,Regular Holiday,2024-03-29
+390,Black Saturday,Special Non-working Holiday,2024-03-30
+391,Easter Sunday,Observance,2024-03-31
+392,The Day of Valor,Regular Holiday,2024-04-09
+393,Eidul-Fitar (Tentative Date),Regular Holiday,2024-04-10
+394,Labor Day,Regular Holiday,2024-05-01
+395,Independence Day,Regular Holiday,2024-06-12
+396,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2024-06-17
+397,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2024-06-18
+398,June Solstice,Season,2024-06-21
+399,Amun Jadid,"Muslim, Common local holiday",2024-07-08
+400,Ninoy Aquino Day,Special Non-working Holiday,2024-08-21
+401,National Heroes Day,Regular Holiday,2024-08-26
+402,Yamashita Surrender Day,Special Working Day,2024-09-03
+403,Feast of the Nativity of Mary,Special Working Day,2024-09-08
+404,Maulid un-Nabi (Tentative Date),Common local holiday,2024-09-16
+405,September Equinox,Season,2024-09-22
+406,All Saints' Day,Special Non-working Holiday,2024-11-01
+407,All Souls' Day,Observance,2024-11-02
+408,Bonifacio Day,Regular Holiday,2024-11-30
+409,Feast of the Immaculate Conception,Special Non-working Holiday,2024-12-08
+410,December Solstice,Season,2024-12-21
+411,Christmas Eve,Observance,2024-12-24
+412,Christmas Day,Regular Holiday,2024-12-25
+413,Rizal Day,Regular Holiday,2024-12-30
+414,New Year's Eve,Special Non-working Holiday,2024-12-31
+415,New Year's Day,Regular Holiday,2025-01-01
+416,First Philippine Republic Day,Special Working Day,2025-01-23
+417,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2025-01-27
+418,Lunar New Year's Day,Special Non-working Holiday,2025-01-29
+419,People Power Anniversary,Special Non-working Holiday,2025-02-25
+420,Ramadan Start (Tentative Date),Observance,2025-03-01
+421,March Equinox,Season,2025-03-20
+422,Eidul-Fitar (Tentative Date),Regular Holiday,2025-03-31
+423,The Day of Valor,Regular Holiday,2025-04-09
+424,Maundy Thursday,Regular Holiday,2025-04-17
+425,Good Friday,Regular Holiday,2025-04-18
+426,Black Saturday,Special Non-working Holiday,2025-04-19
+427,Easter Sunday,Observance,2025-04-20
+428,Labor Day,Regular Holiday,2025-05-01
+429,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2025-06-07
+430,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2025-06-08
+431,Independence Day,Regular Holiday,2025-06-12
+432,June Solstice,Season,2025-06-21
+433,Amun Jadid,"Muslim, Common local holiday",2025-06-27
+434,Ninoy Aquino Day,Special Non-working Holiday,2025-08-21
+435,National Heroes Day,Regular Holiday,2025-08-25
+436,Yamashita Surrender Day,Special Working Day,2025-09-03
+437,Maulid un-Nabi (Tentative Date),Common local holiday,2025-09-05
+438,Feast of the Nativity of Mary,Special Working Day,2025-09-08
+439,September Equinox,Season,2025-09-23
+440,All Saints' Day,Special Non-working Holiday,2025-11-01
+441,All Souls' Day,Observance,2025-11-02
+442,Bonifacio Day,Regular Holiday,2025-11-30
+443,Feast of the Immaculate Conception,Special Non-working Holiday,2025-12-08
+444,December Solstice,Season,2025-12-21
+445,Christmas Eve,Observance,2025-12-24
+446,Christmas Day,Regular Holiday,2025-12-25
+447,Rizal Day,Regular Holiday,2025-12-30
+448,New Year's Eve,Special Non-working Holiday,2025-12-31
+449,New Year's Day,Regular Holiday,2026-01-01
+450,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2026-01-16
+451,First Philippine Republic Day,Special Working Day,2026-01-23
+452,Lunar New Year's Day,Special Non-working Holiday,2026-02-17
+453,Ramadan Start (Tentative Date),Observance,2026-02-18
+454,People Power Anniversary,Special Non-working Holiday,2026-02-25
+455,Eidul-Fitar (Tentative Date),Regular Holiday,2026-03-20
+456,March Equinox,Season,2026-03-20
+457,Maundy Thursday,Regular Holiday,2026-04-02
+458,Good Friday,Regular Holiday,2026-04-03
+459,Black Saturday,Special Non-working Holiday,2026-04-04
+460,Easter Sunday,Observance,2026-04-05
+461,The Day of Valor,Regular Holiday,2026-04-09
+462,Labor Day,Regular Holiday,2026-05-01
+463,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2026-05-27
+464,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2026-05-28
+465,Independence Day,Regular Holiday,2026-06-12
+466,Amun Jadid,"Muslim, Common local holiday",2026-06-17
+467,June Solstice,Season,2026-06-21
+468,Ninoy Aquino Day,Special Non-working Holiday,2026-08-21
+469,Maulid un-Nabi (Tentative Date),Common local holiday,2026-08-26
+470,National Heroes Day,Regular Holiday,2026-08-31
+471,Yamashita Surrender Day,Special Working Day,2026-09-03
+472,Feast of the Nativity of Mary,Special Working Day,2026-09-08
+473,September Equinox,Season,2026-09-23
+474,All Saints' Day,Special Non-working Holiday,2026-11-01
+475,All Souls' Day,Observance,2026-11-02
+476,Bonifacio Day,Regular Holiday,2026-11-30
+477,Feast of the Immaculate Conception,Special Non-working Holiday,2026-12-08
+478,December Solstice,Season,2026-12-22
+479,Christmas Eve,Observance,2026-12-24
+480,Christmas Day,Regular Holiday,2026-12-25
+481,Rizal Day,Regular Holiday,2026-12-30
+482,New Year's Eve,Special Non-working Holiday,2026-12-31
+483,New Year's Day,Regular Holiday,2027-01-01
+484,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2027-01-06
+485,First Philippine Republic Day,Special Working Day,2027-01-23
+486,Lunar New Year's Day,Special Non-working Holiday,2027-02-06
+487,Ramadan Start (Tentative Date),Observance,2027-02-08
+488,People Power Anniversary,Special Non-working Holiday,2027-02-25
+489,Eidul-Fitar (Tentative Date),Regular Holiday,2027-03-10
+490,March Equinox,Season,2027-03-21
+491,Maundy Thursday,Regular Holiday,2027-03-25
+492,Good Friday,Regular Holiday,2027-03-26
+493,Black Saturday,Special Non-working Holiday,2027-03-27
+494,Easter Sunday,Observance,2027-03-28
+495,The Day of Valor,Regular Holiday,2027-04-09
+496,Labor Day,Regular Holiday,2027-05-01
+497,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2027-05-17
+498,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2027-05-18
+499,Amun Jadid,"Muslim, Common local holiday",2027-06-06
+500,Independence Day,Regular Holiday,2027-06-12
+501,June Solstice,Season,2027-06-21
+502,Maulid un-Nabi (Tentative Date),Common local holiday,2027-08-15
+503,Ninoy Aquino Day,Special Non-working Holiday,2027-08-21
+504,National Heroes Day,Regular Holiday,2027-08-30
+505,Yamashita Surrender Day,Special Working Day,2027-09-03
+506,Feast of the Nativity of Mary,Special Working Day,2027-09-08
+507,September Equinox,Season,2027-09-23
+508,All Saints' Day,Special Non-working Holiday,2027-11-01
+509,All Souls' Day,Observance,2027-11-02
+510,Bonifacio Day,Regular Holiday,2027-11-30
+511,Feast of the Immaculate Conception,Special Non-working Holiday,2027-12-08
+512,December Solstice,Season,2027-12-22
+513,Christmas Eve,Observance,2027-12-24
+514,Christmas Day,Regular Holiday,2027-12-25
+515,Lailatul Isra Wal Mi Raj,Common local holiday,2027-12-26
+516,Rizal Day,Regular Holiday,2027-12-30
+517,New Year's Eve,Special Non-working Holiday,2027-12-31
+518,New Year's Day,Regular Holiday,2028-01-01
+519,First Philippine Republic Day,Special Working Day,2028-01-23
+520,Lunar New Year's Day,Special Non-working Holiday,2028-01-26
+521,Ramadan Start (Tentative Date),Observance,2028-01-28
+522,People Power Anniversary,Special Non-working Holiday,2028-02-25
+523,Eidul-Fitar (Tentative Date),Regular Holiday,2028-02-27
+524,March Equinox,Season,2028-03-20
+525,The Day of Valor,Regular Holiday,2028-04-09
+526,Maundy Thursday,Regular Holiday,2028-04-13
+527,Good Friday,Regular Holiday,2028-04-14
+528,Black Saturday,Special Non-working Holiday,2028-04-15
+529,Easter Sunday,Observance,2028-04-16
+530,Labor Day,Regular Holiday,2028-05-01
+531,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2028-05-05
+532,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2028-05-06
+533,Amun Jadid,"Muslim, Common local holiday",2028-05-25
+534,Independence Day,Regular Holiday,2028-06-12
+535,June Solstice,Season,2028-06-21
+536,Maulid un-Nabi (Tentative Date),Common local holiday,2028-08-03
+537,Ninoy Aquino Day,Special Non-working Holiday,2028-08-21
+538,National Heroes Day,Regular Holiday,2028-08-28
+539,Yamashita Surrender Day,Special Working Day,2028-09-03
+540,Feast of the Nativity of Mary,Special Working Day,2028-09-08
+541,September Equinox,Season,2028-09-22
+542,All Saints' Day,Special Non-working Holiday,2028-11-01
+543,All Souls' Day,Observance,2028-11-02
+544,Bonifacio Day,Regular Holiday,2028-11-30
+545,Feast of the Immaculate Conception,Special Non-working Holiday,2028-12-08
+546,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2028-12-14
+547,December Solstice,Season,2028-12-21
+548,Christmas Eve,Observance,2028-12-24
+549,Christmas Day,Regular Holiday,2028-12-25
+550,Rizal Day,Regular Holiday,2028-12-30
+551,New Year's Eve,Special Non-working Holiday,2028-12-31
+552,New Year's Day,Regular Holiday,2029-01-01
+553,Ramadan Start (Tentative Date),Observance,2029-01-16
+554,First Philippine Republic Day,Special Working Day,2029-01-23
+555,Lunar New Year's Day,Special Non-working Holiday,2029-02-13
+556,Eidul-Fitar (Tentative Date),Regular Holiday,2029-02-15
+557,People Power Anniversary,Special Non-working Holiday,2029-02-25
+558,March Equinox,Season,2029-03-20
+559,Maundy Thursday,Regular Holiday,2029-03-29
+560,Good Friday,Regular Holiday,2029-03-30
+561,Black Saturday,Special Non-working Holiday,2029-03-31
+562,Easter Sunday,Observance,2029-04-01
+563,The Day of Valor,Regular Holiday,2029-04-09
+564,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2029-04-24
+565,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2029-04-25
+566,Labor Day,Regular Holiday,2029-05-01
+567,Amun Jadid,"Muslim, Common local holiday",2029-05-15
+568,Independence Day,Regular Holiday,2029-06-12
+569,June Solstice,Season,2029-06-21
+570,Maulid un-Nabi (Tentative Date),Common local holiday,2029-07-24
+571,Ninoy Aquino Day,Special Non-working Holiday,2029-08-21
+572,National Heroes Day,Regular Holiday,2029-08-27
+573,Yamashita Surrender Day,Special Working Day,2029-09-03
+574,Feast of the Nativity of Mary,Special Working Day,2029-09-08
+575,September Equinox,Season,2029-09-23
+576,All Saints' Day,Special Non-working Holiday,2029-11-01
+577,All Souls' Day,Observance,2029-11-02
+578,Bonifacio Day,Regular Holiday,2029-11-30
+579,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2029-12-04
+580,Feast of the Immaculate Conception,Special Non-working Holiday,2029-12-08
+581,December Solstice,Season,2029-12-21
+582,Christmas Eve,Observance,2029-12-24
+583,Christmas Day,Regular Holiday,2029-12-25
+584,Rizal Day,Regular Holiday,2029-12-30
+585,New Year's Eve,Special Non-working Holiday,2029-12-31
+586,New Year's Day,Regular Holiday,2030-01-01
+587,Ramadan Start (Tentative Date),Observance,2030-01-06
+588,First Philippine Republic Day,Special Working Day,2030-01-23
+589,Lunar New Year's Day,Special Non-working Holiday,2030-02-03
+590,Eidul-Fitar (Tentative Date),Regular Holiday,2030-02-05
+591,People Power Anniversary,Special Non-working Holiday,2030-02-25
+592,March Equinox,Season,2030-03-20
+593,The Day of Valor,Regular Holiday,2030-04-09
+594,Eid al-Adha (Feast of the Sacrifice) (Tentative Date),Regular Holiday,2030-04-14
+595,Eid al-Adha Day 2 (Tentative Date),Common local holiday,2030-04-15
+596,Maundy Thursday,Regular Holiday,2030-04-18
+597,Good Friday,Regular Holiday,2030-04-19
+598,Black Saturday,Special Non-working Holiday,2030-04-20
+599,Easter Sunday,Observance,2030-04-21
+600,Labor Day,Regular Holiday,2030-05-01
+601,Amun Jadid,"Muslim, Common local holiday",2030-05-04
+602,Independence Day,Regular Holiday,2030-06-12
+603,June Solstice,Season,2030-06-21
+604,Maulid un-Nabi (Tentative Date),Common local holiday,2030-07-13
+605,Ninoy Aquino Day,Special Non-working Holiday,2030-08-21
+606,National Heroes Day,Regular Holiday,2030-08-26
+607,Yamashita Surrender Day,Special Working Day,2030-09-03
+608,Feast of the Nativity of Mary,Special Working Day,2030-09-08
+609,September Equinox,Season,2030-09-23
+610,All Saints' Day,Special Non-working Holiday,2030-11-01
+611,All Souls' Day,Observance,2030-11-02
+612,Lailatul Isra Wal Mi Raj (Tentative Date),Common local holiday,2030-11-23
+613,Bonifacio Day,Regular Holiday,2030-11-30
+614,Feast of the Immaculate Conception,Special Non-working Holiday,2030-12-08
+615,December Solstice,Season,2030-12-22
+616,Christmas Eve,Observance,2030-12-24
+617,Christmas Day,Regular Holiday,2030-12-25
+618,Ramadan Start,Observance,2030-12-26
+619,Rizal Day,Regular Holiday,2030-12-30
+620,New Year's Eve,Special Non-working Holiday,2030-12-31
