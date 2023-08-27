@@ -1,3 +1,3 @@
-# Personal Data Science Projects by Jamael Codaye
+# Data Science Projects by Jamael Codaye
 
 Portfolio
